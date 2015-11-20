@@ -10,3 +10,10 @@ CONFIG
 
 настрока DB
 'components'=>'db'=>array()
+
+
+##Доступ к админке
+
+login: admin
+
+password: demo
